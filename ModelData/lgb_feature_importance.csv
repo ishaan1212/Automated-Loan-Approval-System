@@ -1,0 +1,17 @@
+Feature,Importance
+TotalIncome,331
+Incometoloanratio,316
+ApplicantIncome,297
+LoanAmount,257
+DebtToIncomeRatio,212
+CoapplicantIncome,137
+Dependents,89
+Credit_History,68
+Property_Area_Urban,43
+Married_Yes,34
+Property_Area_Semiurban,32
+Gender_Male,29
+Loan_Amount_Term,27
+Education,19
+Self_Employed_Yes,8
+Loan_Term_Years,0

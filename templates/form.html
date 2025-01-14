@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loan Approval Prediction</title>
+</head>
+<body>
+    <h1>Loan Approval Prediction</h1>
+    <form method="POST">
+        <label for="ApplicantIncome">Applicant Income:</label>
+        <input type="number" id="ApplicantIncome" name="ApplicantIncome" required><br><br>
+
+        <label for="CoapplicantIncome">Coapplicant Income:</label>
+        <input type="number" id="CoapplicantIncome" name="CoapplicantIncome" required><br><br>
+
+        <label for="LoanAmount">Loan Amount:</label>
+        <input type="number" id="LoanAmount" name="LoanAmount" required><br><br>
+
+        <label for="Loan_Amount_Term">Loan Amount Term:</label>
+        <input type="number" id="Loan_Amount_Term" name="Loan_Amount_Term" required><br><br>
+
+        <label for="Credit_History">Credit History:</label>
+        <select id="Credit_History" name="Credit_History" required>
+            <option value="1.0">Good</option>
+            <option value="0.0">Bad</option>
+        </select><br><br>
+
+        <label for="Property_Area">Property Area:</label>
+        <select id="Property_Area" name="Property_Area" required>
+            <option value="Urban">Urban</option>
+            <option value="Semiurban">Semiurban</option>
+            <option value="Rural">Rural</option>
+        </select><br><br>
+
+        <!-- Add more input fields as needed -->
+
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

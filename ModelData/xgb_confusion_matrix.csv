@@ -1,0 +1,5 @@
+Metric,Count
+True Negatives,23
+False Positives,20
+False Negatives,10
+True Positives,70

@@ -1,0 +1,17 @@
+Feature,Importance
+Credit_History,0.23550308
+Property_Area_Semiurban,0.072607525
+Incometoloanratio,0.06203306
+Loan_Amount_Term,0.058322977
+Dependents,0.056710314
+Married_Yes,0.0553069
+TotalIncome,0.054604102
+Loan_Term_Years,0.05233802
+LoanAmount,0.05213796
+ApplicantIncome,0.050052196
+DebtToIncomeRatio,0.048401617
+Education,0.048253417
+CoapplicantIncome,0.041422024
+Property_Area_Urban,0.041147713
+Self_Employed_Yes,0.038473945
+Gender_Male,0.032685213
